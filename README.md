@@ -34,9 +34,9 @@ This will open the application in your default browser at http://localhost:3000.
 
 ## Usage
 Once the application is running, it will display a welcome screen. The customer can click the "Start Survey" button to begin the survey. The following actions are available:
-•	Next: Move to the next question.
-•	Previous: Move to the previous question.
-•	Skip: Skip the current question and move to the next one.
+1.	Next: Move to the next question.
+2.	Previous: Move to the previous question.
+3.	Skip: Skip the current question and move to the next one.
 At the end of the survey, a confirmation dialog will appear asking the customer if they want to submit their responses. Once confirmed, the app will save the answers, mark the survey as completed, and show a "Thank you" screen for 5 seconds before redirecting back to the welcome screen.
 
 ## App Structure
