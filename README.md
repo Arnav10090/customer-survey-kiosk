@@ -40,19 +40,8 @@ Once the application is running, it will display a welcome screen. The customer 
 At the end of the survey, a confirmation dialog will appear asking the customer if they want to submit their responses. Once confirmed, the app will save the answers, mark the survey as completed, and show a "Thank you" screen for 5 seconds before redirecting back to the welcome screen.
 
 ## App Structure
-survey-app/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── WelcomeScreen.js      # Simple screen to welcome customers
-│   │   ├── QuestionScreen.js     # Displays each question, with options for navigating and skipping
-│   │   ├── ThankYouScreen.js     # Displays a Thank You message after survey completion
-│   ├── data/
-│   │   └── questions.js          # Questions stored in a structured format
-│   ├── App.js                    # Main component that manages the different screens
-│   ├── index.js                  # Renders the main App component
-│   └── index.css                 # Contains basic global styling for the app
-└── package.json                  # Includes basic dependencies for the react setup
+![Photo](app.png)
+
 
 ### Dependencies:
 •	react: Core React library.
