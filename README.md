@@ -44,9 +44,9 @@ At the end of the survey, a confirmation dialog will appear asking the customer 
 
 
 ### Dependencies:
-•	react: Core React library.
-•	react-dom: Library for interacting with the DOM.
-•	react-scripts: Scripts for running the development server and building the app.
+1.	react: Core React library.
+2.	react-dom: Library for interacting with the DOM.
+3.  react-scripts: Scripts for running the development server and building the app.
 
 ## Project Components
 1. App.js:
