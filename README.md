@@ -40,7 +40,7 @@ Once the application is running, it will display a welcome screen. The customer 
 At the end of the survey, a confirmation dialog will appear asking the customer if they want to submit their responses. Once confirmed, the app will save the answers, mark the survey as completed, and show a "Thank you" screen for 5 seconds before redirecting back to the welcome screen.
 
 ## App Structure
-![Photo](app.png)
+![Photo](app_structure.png)
 
 
 ### Dependencies:
